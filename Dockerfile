@@ -1,1 +1,1 @@
-FROM smnetstudio1001/popai:1.0.0
+FROM hulu365/popai2api:latest
